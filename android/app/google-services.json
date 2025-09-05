@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872379647556",
+    "project_id": "project-etb",
+    "storage_bucket": "project-etb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872379647556:android:b5950c70255eaae2655e11",
+        "android_client_info": {
+          "package_name": "com.example.etb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSnFkGJKBOPZf243X0RJVU5QPcX1rRDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
